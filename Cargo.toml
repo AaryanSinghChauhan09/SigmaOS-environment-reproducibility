@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-environment-reproducibility"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS environment-reproducibility component - declarative_config"
+
+[lib]
+name = "environment_reproducibility"
+path = "src/lib.rs"
