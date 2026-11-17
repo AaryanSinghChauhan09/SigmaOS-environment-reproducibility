@@ -3,7 +3,7 @@ name = "SigmaOS-environment-reproducibility"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "environment-reproducibility component"
+description = "Environment Reproducibility"
 upstream = []
 
 [contract]
